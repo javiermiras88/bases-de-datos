@@ -59,8 +59,6 @@ CREATE TABLE `users` (
 -- Volcado de datos para la tabla `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `email`, `password`, `token`, `direccion`, `codigo_postal`, `telefono`, `creado`, `actualizado`) VALUES
-(28, 'javi', 'javiermiras88@hotmail.com', '$2y$10$vRtYkiaD3Yoa5RwpGrsOF.HLuMAPYkz4ccs89nNG1u.T9Te6NL.dC', '0iQiViijcxviv5b6uk7jymPjLloOT8dkhUlOsHBL', 'camino casicas', 787978, 345345, '2018-02-28 18:37:46', '2018-02-28 18:37:46');
 
 --
 -- Índices para tablas volcadas
